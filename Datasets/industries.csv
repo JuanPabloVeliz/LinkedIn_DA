@@ -1,0 +1,271 @@
+industries_id,industries
+0,"Transporte, logística, cadena de suministro y almacenamiento"
+1,"Tecnología, información e internet"
+2,"Servicios de alimentos y bebidas, Fabricación de alimentos y bebidas y Manufactura"
+3,Servicios públicos
+4,Organizaciones comunitarias y sociales
+5,Fabricación de productos químicos
+6,Venta al por mayor
+7,Servicios de alimentos y bebidas
+8,Servicios de TI y consultoría de TI
+9,Asesoría y servicios empresariales
+10,Servicios de recursos humanos
+11,Sector inmobiliario
+12,Petróleo y gas
+13,Hospitales y atención sanitaria
+14,Dotación y selección de personal
+15,Servicios profesionales
+16,Fabricación de tabaco y Manufactura
+17,Servicios financieros
+18,"Servicios de alimentos y bebidas, Fabricación de productos químicos y Fabricación de alimentos y bebidas"
+19,Fabricación de equipos informáticos
+20,
+21,Seguros y Servicios financieros
+22,Contabilidad
+23,Publicaciones en línea
+24,Servicios de TI y consultoría de TI y Servicios financieros
+25,Proveedores de e-learning
+26,Servicios para el individuo y la familia
+27,"Servicios de TI y consultoría de TI, Seguros y Servicios financieros"
+28,Proveedores de entretenimiento
+29,Desarrollo de software y Protección civil
+30,Desarrollo de software
+31,Telecomunicaciones
+32,Servicios y tecnologías de la información
+33,"Servicios de TI y consultoría de TI, Desarrollo de software y Seguridad de redes y sistemas informáticos"
+34,Fabricación de productos farmacéuticos
+35,Servicios de TI y consultoría de TI y Fabricación de productos farmacéuticos
+36,Servicios de publicidad
+37,"Venta al por mayor, Comestibles para la venta minorista y Venta minorista"
+38,Business Consulting and Services
+39,IT Services and IT Consulting
+40,Financial Services
+41,Staffing and Recruiting
+42,Motor Vehicle Manufacturing
+43,Telecommunications and Computers and Electronics Manufacturing
+44,Broadcast Media Production and Distribution
+45,"Appliances, Electrical, and Electronics Manufacturing"
+46,"Retail, Travel Arrangements, and Retail Luxury Goods and Jewelry"
+47,E-Learning Providers
+48,"Online Audio and Video Media, Book and Periodical Publishing, and Technology, Information and Internet"
+49,Seguridad e investigaciones
+50,Comestibles para la venta minorista
+51,Organización de viajes
+52,Fabricación de productos para agricultura
+53,Seguros
+54,Serviços de alimentos e bebidas
+55,Varejo
+56,Fabricação de componentes de aviação e aeroespaciais
+57,"Tecnologia, Informação e Internet"
+58,Serviços financeiros
+59,Serviços públicos
+60,Transporte por caminhão
+61,Serviços e consultoria de TI
+62,Atendimento ao consumidor
+63,Segurança de redes e computadores
+64,Bancos
+65,Serviços de informação
+66,"Transporte, Logística, Cadeia de Suprimentos e Armazenamento"
+67,Serviços profissionais
+68,Publicação na Internet
+69,Serviços de recursos humanos
+70,Serviços de publicidade
+71,"Food and Beverage Services, Retail, and Hospitality"
+72,Manufacturing
+73,"IT Services and IT Consulting, Software Development, and Computer and Network Security"
+74,Retail
+75,"IT Services and IT Consulting, Software Development, and Business Consulting and Services"
+76,Government Administration
+77,"Technology, Information and Internet"
+78,Leasing Non-residential Real Estate
+79,Fabricación de vehículos motorizados
+80,Food and Beverage Services
+81,Hostelería
+82,Internet Publishing
+83,"Information Services, Software Development, and Education Administration Programs"
+84,Fabricação de alimentos e bebidas
+85,Administração pública
+86,Recrutamento e seleção
+87,Serviços de bem-estar e condicionamento físico
+88,Agricultura
+89,"Fabricação de produtos químicos, Pesquisa biotecnológica e Fabricação de produtos farmacêuticos"
+90,Fabricação de aparelhos elétricos e eletrônicos
+91,Fabricação de máquinas de automação
+92,Indústria automotiva
+93,"Serviços de publicidade, Pesquisa biotecnológica e Hospitais e atendimento à saúde"
+94,Consultoria e serviços empresariais
+95,Músicos
+96,Fabricação de produtos de higiene pessoal
+97,Programas de administração educacional
+98,Desenvolvimento de software
+99,Serviços ambientais
+100,Produtos de computação em rede
+101,Tecnologia da informação e serviços
+102,Seguros e Serviços financeiros
+103,Pecuária
+104,"Serviços e consultoria de TI, Programas de administração educacional e Serviços financeiros"
+105,Transporte ferroviário
+106,"Serviços e consultoria de TI e Transporte, Logística, Cadeia de Suprimentos e Armazenamento"
+107,Serviços de relações públicas e comunicação
+108,Telecomunicações
+109,"Engenharia mecânica ou industrial, Serviços ambientais e Tecnologia da informação e serviços"
+110,"Serviços de alimentos e bebidas, Fabricação de alimentos e bebidas e Manufatura"
+111,Petróleo e gás
+112,Bancos de investimento
+113,Desenvolvimento de software e Administração de serviços
+114,Fabricação de produtos químicos e Fabricação de produtos farmacêuticos
+115,Hospitais e atendimento à saúde
+116,Manufatura
+117,Serviços de gestão estratégica
+118,Administração de escritório
+119,Fabricação de produtos farmacêuticos
+120,Consultoria de terceirização e offshoring
+121,Locações não residenciais
+122,Escolas de cosmetologia e barbeiro
+123,Entretenimento
+124,Produção e distribuição de mídia de transmissão
+125,Programas de gestión educativa
+126,"Servicios de publicidad, Investigación de mercado y Seguridad de redes y sistemas informáticos"
+127,Servicios de publicidad y Investigación de mercado
+128,"Fabricación de artículos deportivos, Manufactura y Venta minorista"
+129,"Fabricación de equipamiento médico, Hospitales y atención sanitaria y Fabricación de productos farmacéuticos"
+130,"Fabricación de equipos informáticos, Seguridad de redes y sistemas informáticos y Contabilidad"
+131,Manufactura
+132,Servicios públicos y Oficinas ejecutivas
+133,Servicios de TI y consultoría de TI y Desarrollo de software
+134,Administración gubernamental
+135,Asesoría de externalización y deslocalización
+136,Servicios de TI y consultoría de TI y Servicios de información
+137,Venta minorista
+138,"Fabricación de equipos informáticos, Productos de redes informáticas y Seguridad de redes y sistemas informáticos"
+139,Organizaciones sin ánimo de lucro
+140,"Servicios de TI y consultoría de TI, Desarrollo de software y Enseñanza superior"
+141,"Fabricación de electrodomésticos, equipamiento eléctrico y electrónica, Fabricación de maquinaria industrial y Manufactura"
+142,Producción multimedia
+143,Banca
+144,Fotografía
+145,Fabricación de embalaje y envases
+146,Servicios de TI y consultoría de TI y Banca
+147,"Servicios de TI y consultoría de TI, Desarrollo de software y Banca"
+148,"Deportes espectáculo, Servicios de información y Desarrollo de software"
+149,"Servicios de TI y consultoría de TI, Seguridad de redes y sistemas informáticos y Hospitales y atención sanitaria"
+150,Fabricación de maquinaria industrial
+151,Seguridad de redes y sistemas informáticos
+152,Servicios de información
+153,Fabricación de maquinaria de automatización
+154,Industria textil y moda para la venta minorista
+155,"Banca, Servicios financieros y Banca de inversiones"
+156,"Fabricación de productos de cuidado personal, Comestibles para la venta minorista y Fabricación de alimentos y bebidas"
+157,"Fabricación de vehículos motorizados, Fabricación de maquinaria industrial y Transporte terrestre en camión"
+158,Ingeniería industrial o mecánica
+159,Desarrollo y comercio internacional
+160,"Servicios de TI y consultoría de TI, Servicios de información y Desarrollo de software"
+161,"Servicios de TI y consultoría de TI y Tecnología, información e internet"
+162,Servicios de TI y consultoría de TI y Servicios de publicidad
+163,"Servicios de TI y consultoría de TI, Desarrollo de software y Formación profesional y coaching"
+164,Servicios al consumidor
+165,Servicios de alimentos y bebidas y Manufactura
+166,Servicios de bienestar y ejercicio
+167,Fabricación de semiconductores de energías renovables
+168,"Servicios de TI y consultoría de TI, Fabricación de equipos informáticos y Desarrollo de software"
+169,Enseñanza superior
+170,Edición y publicación en publicaciones periódicas
+171,"Servicios de información, Transporte, logística, cadena de suministro y almacenamiento y Aeronáutica y aviación"
+172,"Transporte, logística, cadena de suministro y almacenamiento, Venta al por mayor y Fabricación de ordenadores y electrónica"
+173,Servicios de gestión estratégica
+174,Fabricación de productos de cuidado personal
+175,"Ingeniería civil, Servicios medioambientales y Fabricación de maquinaria industrial"
+176,"Ingeniería civil, Servicios medioambientales y Minería"
+177,Gestión educativa
+178,Consultorios médicos
+179,Servicios de diseño
+180,Transporte terrestre en camión y Fabricación de equipos ferroviarios
+181,"Tecnología, información y medios de comunicación"
+182,Gestión de inversiones
+183,Banca y Seguros
+184,Fabricación de alimentos y bebidas
+185,Productos de software integrado
+186,Recursos humanos
+187,Hospitals and Health Care
+188,"Renewable Energy Semiconductor Manufacturing, Motor Vehicle Manufacturing, and Utilities"
+189,Real Estate
+190,"IT Services and IT Consulting, Information Services, and Software Development"
+191,"Wholesale Building Materials, Automation Machinery Manufacturing, and Manufacturing"
+192,Higher Education
+193,"IT Services and IT Consulting, Advertising Services, and Technology, Information and Internet"
+194,"Banking, Financial Services, and Investment Banking"
+195,Advertising Services
+196,"Transportation, Logistics, Supply Chain and Storage"
+197,Telecommunications
+198,"Medical Equipment Manufacturing, Biotechnology Research, and Pharmaceutical Manufacturing"
+199,Entertainment Providers
+200,Human Resources Services
+201,Information Services
+202,Information Technology & Services
+203,"Food and Beverage Services, Manufacturing, and Retail"
+204,"Research Services, Business Consulting and Services, and Public Safety"
+205,"Technology, Information and Internet, Insurance, and Financial Services"
+206,Software Development
+207,Wellness and Fitness Services
+208,Banking
+209,IT Services and IT Consulting and Financial Services
+210,Education Administration Programs
+211,Computer Games
+212,"IT Services and IT Consulting, Software Development, and Hospitals and Health Care"
+213,"Advertising Services and Technology, Information and Internet"
+214,Book and Periodical Publishing
+215,Events Services
+216,Insurance
+217,"Transportation, Logistics, Supply Chain and Storage, Technology, Information and Internet, and Consumer Services"
+218,Non-profit Organizations
+219,"Software Development and Technology, Information and Internet"
+220,Restaurants and Advertising Services
+221,"Software Development, Technology, Information and Internet, and Financial Services"
+222,"Automation Machinery Manufacturing, Software Development, and Financial Services"
+223,"Retail Apparel and Fashion, Retail, and Retail Luxury Goods and Jewelry"
+224,Mental Health Care
+225,Wholesale Import and Export and Truck Transportation
+226,Pharmaceutical Manufacturing
+227,Public Safety
+228,"IT Services and IT Consulting, Software Development, and Technology, Information and Internet"
+229,Airlines and Aviation
+230,"IT Services and IT Consulting, Food and Beverage Services, and Retail"
+231,Accounting
+232,"Information Services, Computer and Network Security, and Technology, Information and Internet"
+233,IT Services and IT Consulting and Hospitals and Health Care
+234,Information Services and Financial Services
+235,Retail Apparel and Fashion
+236,"IT Services and IT Consulting, Spectator Sports, and Gambling Facilities and Casinos"
+237,IT Services and IT Consulting and Retail
+238,Security and Investigations
+239,Utilities
+240,"Appliances, Electrical, and Electronics Manufacturing and Automation Machinery Manufacturing"
+241,"Computer Hardware Manufacturing, Computer and Network Security, and Oil and Gas"
+242,Manufacturing and Retail
+243,IT Services and IT Consulting and Broadcast Media Production and Distribution
+244,IT Services and IT Consulting and Computers and Electronics Manufacturing
+245,"Newspaper Publishing, Online Audio and Video Media, and Entertainment Providers"
+246,IT Services and IT Consulting and Environmental Services
+247,"Spectator Sports, Software Development, and Entertainment Providers"
+248,Oil and Gas
+249,Construction
+250,Environmental Services and Utilities
+251,"Restaurants, Food and Beverage Services, and Airlines and Aviation"
+252,Telecommunications and Real Estate
+253,IT Services and IT Consulting and Business Consulting and Services
+254,Industria láctea y Desarrollo y comercio internacional
+255,"Banca, Manufactura y Asesoría y servicios empresariales"
+256,"Banca, Petróleo y gas y Servicios financieros"
+257,"Tecnología, información e internet y Servicios de recursos humanos"
+258,Oficinas ejecutivas
+259,Acuerdos de capital de riesgo y capital de inversión
+260,Asesoría y servicios empresariales y Hospitales y atención sanitaria
+261,"Servicios de TI y consultoría de TI, Desarrollo de software y Tecnología, información e internet"
+262,Minería
+263,"Petróleo y gas, Equipamiento de oficina para la venta minorista y Servicios al consumidor"
+264,Casinos y centros de apuestas
+265,Fabricación de productos textiles
+266,Restauración
+267,"Venta al por mayor, Manufactura y Servicios al consumidor"
+268,Servicios de TI y consultoría de TI y Asesoría y servicios empresariales
+269,Seguros y Asesoría y servicios empresariales

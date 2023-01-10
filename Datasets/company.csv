@@ -1,0 +1,759 @@
+company_id,company
+0,JABU
+1,Level Access
+2,Danone
+3,The AES Corporation
+4,Médicos Sin Fronteras Latinoamérica
+5,Givaudan
+6,Nini Mayorista
+7,Megatlon
+8,Cervecería y Maltería Quilmes
+9,aliantec
+10,PwC Argentina
+11,Empleos IT
+12,Grupo Consultores de Empresas
+13,JLL
+14,Alejandra Molina
+15,Pacifica Continental
+16,Reserve
+17,Navent
+18,ChampionX
+19,Frost & Sullivan
+20,AlixPartners
+21,Teladoc Health
+22,IMPLEMENTAR CONSULTORES SRL
+23,DICSYS
+24,Baufest
+25,Page Personnel
+26,Lenovo
+27,Elevance Health
+28,EY
+29,BAT
+30,PedidosYa
+31,JPMorgan Chase & Co.
+32,Cargill
+33,Cobblestone Energy
+34,Recruiting from Scratch
+35,IBM
+36,AVANZARE RH - Consultora Boutique de Capital Humano
+37,BrightSide IT Consulting S.A.
+38,MetLife
+39,Experis Argentina
+40,Dynamo Global
+41,KUNAN S.A.
+42,EPAM Systems
+43,Gi Group
+44,FlyOnData
+45,1840 & Company
+46,Bancoli
+47,Memorable
+48,Open English
+49,Cosys Global | Grupo Kelsoft
+50,Tiendanube
+51,Mercantil Andina
+52,KPMG Argentina
+53,Practia Global
+54,Consultoriait.com.ar
+55,Flexiti
+56,Naranja X
+57,Charles Taylor
+58,Belong
+59,REPS & Co.
+60,Applaudo
+61,Oowlish
+62,Fusemachines
+63,RapidSOS
+64,Turing
+65,TalentPro - Human Resources
+66,PGLO
+67,Bluelight Consulting | DevOps & Software Development
+68,System1
+69,Movistar (Telefónica Hispam)
+70,BBVA en Argentina
+71,Reba
+72,Connectingology
+73,Accenture
+74,COELSA
+75,Cybele Software
+76,Adecoagro
+77,Randstad Argentina
+78,Despegar
+79,Michael Page
+80,Suizo Argentina
+81,Cognizant
+82,Elit Mayorista de Tecnología
+83,Bumeran Selecta
+84,La Caja de Ahorro y Seguro
+85,Dabrein Solutions
+86,Claro Argentina
+87,Accenture Argentina
+88,Mediabrands
+89,Mercado Libre
+90,Qontigo
+91,Walmart de México y Centroamérica
+92,Capgemini Invent
+93,Wipro
+94,Mizuho
+95,Humand Talent
+96,OZ
+97,Robert Half
+98,BCA UK
+99,Bitdefender
+100,Brightwater
+101,Orbis
+102,AND Digital Nederland
+103,Migo
+104,Project People
+105,Morgan McKinley
+106,Mitchell Martin Inc.
+107,Brooksource
+108,Seneca Resources
+109,Sky
+110,Data Idols
+111,Match Digital
+112,IBD Registry
+113,MyTutor.co.uk
+114,Footballco
+115,Prosegur
+116,Telefónica
+117,Moni
+118,ÁpeX consultora ad hoc en RRHH
+119,Aliancers
+120,Provincia NET
+121,Timac AGRO Argentina
+122,ORISHINAL
+123,"Seguros, tendencias y riesgos SURA"
+124,Viterra Argentina
+125,Bellingrodt Reisebüro GmbH
+126,Vigor
+127,americanas s.a.
+128,Fraport Brasil - Porto Alegre
+129,GetNinjas
+130,BMG Seguros
+131,Shape
+132,Sicoob Credigerais
+133,ALUPAR
+134,Real Expresso
+135,BEES
+136,Imagem Geosistemas
+137,Banni Participações S.A
+138,Onnibank
+139,Euromoney Institutional Investor
+140,DHL Supply Chain
+141,Escritório de Advocacia
+142,People Meet
+143,J&T Express Brasil
+144,IVENTIS
+145,innolevels
+146,Getnet Brasil
+147,LUANDRE CONSULTORIA
+148,Brivia
+149,Movida Aluguel de Carros
+150,Minsait
+151,Mercantil do Brasil
+152,Black Sheep Coffee
+153,Eden Smith Group
+154,Tech Mahindra
+155,Technman Consulting
+156,Frasers Group
+157,Cloud and Things
+158,Capstone Recruitment Asia Pacific
+159,Continental
+160,Chicago Teachers' Pension Fund
+161,Sand Cherry
+162,JioSaavn
+163,Spaceworks Real Estate
+164,BlueWave Resource Partners
+165,Autoliv
+166,Arab Bank
+167,Newrest
+168,Technology Ventures
+169,DO & CO AG
+170,W1TTY
+171,American Technology Consulting - ATC
+172,PubMatic
+173,Workforce Solutions
+174,PagBank PagSeguro
+175,PicPay
+176,Bunge
+177,Santander Brasil
+178,Caderno Nacional
+179,Rio+Saneamento
+180,Cresol Cooperativa
+181,Unimed
+182,Castrolanda Cooperativa Agroindustrial
+183,Genial Investimentos
+184,Daki
+185,Grupo Skytech
+186,Mesha Tecnologia
+187,Pernambucanas
+188,Só Reparos
+189,Bayer
+190,ILHA SERVICE TECNOLOGIA LTDA.
+191,Score Group Brasil
+192,Siemens
+193,Beep Saúde
+194,HDI Seguros
+195,Cappta
+196,Simpar
+197,Incentivar
+198,Nutriex
+199,UNICRED CENTRAL MULTIRREGIONAL
+200,Shopee
+201,RHMED Consultores Associados
+202,Puravida
+203,Riosulense
+204,Grupo Vamos
+205,Banco Master
+206,Mundiale
+207,Interpublic Group (IPG)
+208,Coodesh
+209,Base
+210,Boa Vista
+211,Spotify
+212,Jump Label Solutions
+213,JustForYou
+214,Getrak
+215,LINCROS
+216,Refera
+217,Íonz
+218,Estratégia Educacional
+219,House of Hagens
+220,Sicredi
+221,Lojas Quero-Quero S.A.
+222,TOPMIND
+223,Clinicarx
+224,Synergia Consultoria Socioambiental
+225,Infotec Brasil
+226,SIS Soluções Integradas de Sistemas
+227,Braintrust
+228,Aliare
+229,A3Data
+230,Brainnest
+231,McAfee
+232,The Bridge Social
+233,L.A. Head Hunter
+234,Cognite
+235,Indicium
+236,Builders
+237,Grupo Fleury
+238,ServiceTitan
+239,MAG Seguros
+240,DOK Despachante
+241,RD
+242,Lanlink Informática Ltda.
+243,Distrito
+244,3CON Consultoria e Sistemas
+245,Sua Música
+246,Prodap
+247,Mobills
+248,Conexia Educação
+249,Cadastra
+250,Pantheon Inc
+251,Qexpert
+252,Gringo
+253,TAKING
+254,Atos
+255,EUCATUR
+256,SELF CARREIRAS
+257,Melhor Envio
+258,Keyrus
+259,Neoway
+260,i-Cherry
+261,AVITA® INSURTECH & LAWTECH
+262,Banco Fibra
+263,MD2 Consultoria
+264,ArcelorMittal Sistemas
+265,TIM Brasil
+266,Tegrus
+267,RINA
+268,Unilever
+269,Directy
+270,CPFL Energia
+271,PSM COMPANY
+272,Oi
+273,Grupo GCB
+274,Resource IT Solutions
+275,SLB
+276,Gera let
+277,Abrahão
+278,Embraer
+279,Credz
+280,METARH
+281,Yara International
+282,Hospital Albert Einstein
+283,VIA AROMA
+284,Sete Soluções e Tecnologia Ambiental
+285,Agroconsult
+286,Deliver IT Serviços de Tecnologia
+287,Triade LLC
+288,SumUp
+289,OdontoPrev
+290,Etex
+291,Pif Paf Alimentos
+292,Procter & Gamble
+293,Wunderman Thompson Technology Brasil
+294,Iterative Inc.
+295,Hrsoul
+296,Atento Brasil
+297,Lello Locacao E Vendas
+298,Tata Consultancy Services
+299,IPM Sistemas
+300,Confidencial
+301,Boston Consulting Group (BCG)
+302,Share People Hub
+303,Grupo Dreamers
+304,LIBBS FARMACÊUTICA LTDA
+305,Avon
+306,Consolide
+307,Sucesso em Vendas
+308,Globo
+309,MBOCHIP
+310,Encora Inc.
+311,Asesorías Académicas Milton Ochoa
+312,Muebles Jamar
+313,Adecco
+314,Inducascos
+315,adidas
+316,Staffing de Colombia
+317,ALIADOS CONSULTORES
+318,Multiplica Talent
+319,Marble Headhunter
+320,"Hy Cite Enterprises, LLC"
+321,Complementos Humanos
+322,Consultora de Recursos Humanos Nexo Sas
+323,Nae
+324,Magneto Empleos
+325,Nubank
+326,Wunderman Thompson Colombia
+327,Infobip
+328,Jobandtalent Group
+329,Magneto
+330,Fundación Cardiovascular de Colombia
+331,Digitas Colombia
+332,Trabajo Joven Sí Hay
+333,TaskUs
+334,TMF Group
+335,ABBATANGELO LIONEL
+336,Solvo Global
+337,Thomas Seguridad Integral
+338,Essity
+339,Forus Colombia S.A.S.
+340,International Rescue Committee
+341,Anthology Inc
+342,Time Jobs
+343,Simera
+344,Lone Wolf Technologies
+345,"Stanley Black & Decker, Inc."
+346,Publicis Media
+347,ADL Digital Lab
+348,Complemento 360
+349,UST España & Latam
+350,Indra
+351,Siigo
+352,BPT Software
+353,Capgemini Engineering
+354,"AVANT, INC."
+355,FullStack Labs
+356,Publicis Groupe
+357,"Datasource Consulting, an EXL company"
+358,Banco de Bogotá
+359,Solventa Lending
+360,Empresa Confidencial
+361,Food Delivery Brands
+362,Amaris Consulting
+363,Deel
+364,Frubana
+365,Porvenir Pensiones y Cesantías
+366,COLTALENTOS
+367,Bancolombia
+368,ScotiaTech
+369,Snappr
+370,Aptar
+371,NEORIS
+372,CGI
+373,Empowerment Labs
+374,Accenture Colombia
+375,Genius Sports
+376,Johnson & Johnson
+377,Vertebra
+378,PayU
+379,B-SECURE
+380,Experian
+381,MetLife Colombia
+382,Alten México
+383,Wood Mackenzie
+384,Ericsson
+385,Experience IT
+386,ABA Finance
+387,Servicios para tu Empresa Punto Com
+388,Apple Leisure Group
+389,DoorDash
+390,MSIGHTS
+391,Factumex
+392,Emerson Automation Solutions
+393,DigitalOnUs by Tech Mahindra
+394,Varel Energy Solutions
+395,Cinepolis Corporativo
+396,Baubap
+397,Suburbia
+398,Citibanamex
+399,Scotiabank
+400,Daimler Truck México
+401,Modus Create
+402,Bosch México
+403,Polymath Ventures
+404,Primeaux KIA
+405,Core Competent
+406,Takeda
+407,Hewlett Packard Enterprise
+408,Ten Lifestyle Group
+409,Siegfried Rhein México
+410,TrueData
+411,Greymatter Innovationz
+412,Enveritas
+413,LAAgencia
+414,Olózfera
+415,Concentrix Catalyst
+416,6sense
+417,Confie
+418,PostPilot
+419,Compucom
+420,TELUS International
+421,Envato
+422,Improvado
+423,Fixity Technologies
+424,G-P/Globalization Partners
+425,EPAM Anywhere
+426,Training Talent
+427,Accenture México
+428,GSB Solutions
+429,Brillio
+430,Teleperformance
+431,MonJa
+432,"Docker, Inc"
+433,Carhartt
+434,LTI - Larsen & Toubro Infotech
+435,Zipdev
+436,MezTal
+437,Tsoft
+438,Cloudbeds
+439,Walmart
+440,PepsiCo
+441,Seedtag
+442,Wunderman Thompson México
+443,VASS
+444,Herbalife Nutrition
+445,HCLTech
+446,Deloitte
+447,Omnicom Media Group
+448,Kerry
+449,"Solera, Inc."
+450,Qualitest
+451,"Sparrow Company, LLC"
+452,ENGIE México
+453,BEYSERIN CONSULTING
+454,Element Fleet Management
+455,"Bluetab América, an IBM Company"
+456,HP
+457,Logitravel Group
+458,The Clorox Company LATAM
+459,Control Risks
+460,HSBC
+461,Tecnológico de Monterrey
+462,Penguin Random House Grupo Editorial México
+463,El Puerto de Liverpool
+464,Globant
+465,ADI Global Distribution
+466,Apex Systems
+467,Grupo Axo®
+468,Lottus Education
+469,Toku (YC S21)
+470,Apiux Tecnología
+471,Kibernum
+472,Moveapps
+473,ALTO
+474,XinerLink
+475,Servicio Nacional de Aduanas
+476,MVS Group S.A.
+477,Empresa Nacional de Alimentos S.A.
+478,MG Certifica
+479,Equifax
+480,Empresas DBS
+481,Falabella
+482,GHD
+483,Deneb Consultores
+484,IQVIA
+485,Coderhub
+486,Ausenco
+487,Jobbucket LLC
+488,MRM
+489,Uno Salud Dental
+490,Xe.com
+491,Stefanini Group
+492,JWD LIMITED
+493,Alstom
+494,Cygnus
+495,Alaya
+496,MyDNA
+497,Banco Falabella Chile
+498,Wholemeaning
+499,FULLKOM eCommerce Operations Management
+500,Listopro
+501,SimpliRoute
+502,SII Group Chile
+503,ARKHO
+504,Fintual
+505,SOAINT
+506,Terminal
+507,Falabella Financiero
+508,CORUS Consulting
+509,BNamericas
+510,Percona
+511,TRC | Recruitme
+512,Factor
+513,NeuralWorks
+514,MAS Analytics
+515,Chilexpress
+516,Valor Único
+517,Evalueserve
+518,BICE VIDA
+519,Industria de Alimentos Trendy S.A
+520,Principal Chile
+521,axity
+522,Banco Ripley Chile
+523,VTR
+524,Banco Bci
+525,SOUTHBOUND
+526,Tech-K
+527,Georesearch LATAM
+528,Klap
+529,Watt's
+530,Agrosuper
+531,Nubox SpA
+532,IT Hunter
+533,Soluciones BI Consulting
+534,Cencosud S.A.
+535,Upside Down
+536,Nagarro
+537,Kelly
+538,Tesla
+539,YES! Communities
+540,WaitWhat
+541,Numero Data
+542,Bluewater Hayes Inc.
+543,ClearChoice Dental Implant Centers
+544,Recidiviz
+545,Detroit Chassis LLC
+546,"firstPRO, Inc"
+547,Realtor.com
+548,UBS
+549,LaSalle Network
+550,Professional Diversity Network
+551,Solve Industrial Motion Group
+552,Brookfield Properties
+553,TaCito Direct
+554,FinTech Automation
+555,State of Massachusetts
+556,CirrusLabs
+557,SynergisticIT
+558,Modis
+559,Medical Mutual Liability Insurance Soc. of MD
+560,Family Christian
+561,Akorbi
+562,Wellpath
+563,Abacus Service Corporation
+564,Seattle Children's
+565,PRI Global
+566,DHL eCommerce Solutions
+567,SpiceOrb
+568,SharpHeads
+569,"Eva Garland Consulting, LLC"
+570,Donnelly & Moore Corporation
+571,ACL Digital
+572,Source One Technical Solutions
+573,Live Nation Entertainment
+574,Arizona State University
+575,Gainwell Technologies
+576,TEKtalent Inc
+577,Maxis Clinical Sciences
+578,Compu-Vision Consulting Inc.
+579,NYU Langone Health
+580,Starbucks
+581,"347 Group, Inc."
+582,Cover Whale
+583,OneBridge Benefits
+584,Diverse Lynx
+585,LHH
+586,Parsley Health
+587,Good Apple
+588,Northrop Grumman Federal Credit Union
+589,CRG
+590,American Homes 4 Rent
+591,Elsdon Consulting ltd
+592,CuraLinc Healthcare
+593,Procare HR
+594,Big Fish Games
+595,Mediavine
+596,ClarisHealth
+597,Education Strategy Consulting
+598,"Horizon Health Care, Inc"
+599,MorphWorks
+600,CafeMedia
+601,MARSHALL TECHNOLOGIES INC
+602,Forbes
+603,TapGoods
+604,Symetra
+605,Clutter
+606,Insight Global
+607,Conexess Group
+608,The Trevor Project
+609,Gopuff
+610,"Milestone Technologies, Inc."
+611,Lawrence Harvey
+612,Plein Air Agency
+613,UX Hires
+614,Pearl Health
+615,PayPal
+616,Stylitics
+617,Elitecare Emergency Hospital League City
+618,Optum
+619,AbleTo Inc.
+620,Finexio
+621,Zelis
+622,Aperia
+623,"Blue Rose Consulting Group, Inc."
+624,Reside Health
+625,Elligo Health Research
+626,Navigate360
+627,Constructor
+628,Everly Health
+629,CoinTracker
+630,UnitedHealthcare
+631,LTK (formerly rewardStyle & LIKEtoKNOW.it)
+632,Millennial Specialty Insurance
+633,Tekintegral
+634,Bainbridge
+635,Kaplan
+636,Yuvo
+637,SimpleTire
+638,LOOP
+639,Wheels Up
+640,Evans Denham Group
+641,Interactive Resources - iR
+642,Premier Inc.
+643,HireTalent - Diversity Staffing & Recruiting Firm
+644,PVH Corp.
+645,PointsBet
+646,Visionaire Partners
+647,Tradeweb
+648,March Networks
+649,Comrise
+650,Correctional Association of New York
+651,Synergis
+652,Big Huge Games
+653,Neudesic
+654,Omron Automation
+655,"Longevity Holdings, LLC"
+656,WHOOP
+657,Talener
+658,Synergy Search
+659,"McKinley Marketing Partners, Inc."
+660,FOODMatch
+661,Opioid Response Network
+662,RightClick
+663,Aditi Consulting
+664,Ledgent Technology
+665,Sogeti
+666,Grid
+667,Trinity Consultants
+668,"AgriBank (St. Paul, MN)"
+669,Atlantic Group
+670,Analytic Recruiting Inc.
+671,Partnership Employment
+672,CCS Global Tech
+673,TM Floyd & Company (TMF)
+674,Mace
+675,Xoriant
+676,Nomi Health
+677,Entech
+678,Patriot Talent Solutions
+679,The Intersect Group
+680,Octopus Energy
+681,gategroup
+682,Cellular Solutions LLC
+683,T-CETRA
+684,SDG Group USA
+685,Office Beacon LLC
+686,Interfood Group
+687,Descartes Systems Group
+688,McKinsey & Company
+689,Sabre Corporation
+690,Prometeo Talent - Recruitment services for high-growth tech companies.
+691,Trafigura
+692,Mural
+693,Upwork
+694,Altimetrik Uruguay
+695,TaTa S.A.
+696,BASF Services Americas
+697,Octobot
+698,Paigo
+699,FRIEDMAN
+700,Scanntech Uruguay
+701,Tenaris
+702,Trafilea Group
+703,Millicom (Tigo)
+704,Nestlé
+705,BANCO SOLIDARIO S.A.
+706,Liberta Partners
+707,Harvey Nash
+708,ALESSA S.A.
+709,Corporación Superior
+710,BMI Ecuador
+711,Dual Logistics
+712,Mondelēz International
+713,cbc
+714,"People Thrust, Inc."
+715,Crossover
+716,INDI Staffing Services
+717,Confidential
+718,Grupo Modelo S.A. de C.V.
+719,Technisys
+720,Logiztik Alliance Group
+721,Pacífico Seguros
+722,Compañía Minera Antapaccay
+723,SGS
+724,Vooxell
+725,Gilat Perú
+726,Bitel Perú
+727,CONSULTORA ZIVOT
+728,Inversiones Recreativos Guerrero SAC
+729,ANDES EXPRESS SAC
+730,International Committee of the Red Cross - ICRC
+731,Banco de Crédito BCP
+732,CSTI Corp
+733,MBC Intercorp
+734,Grupo Pionier
+735,Claro Perú
+736,Corporación Rico SAC
+737,FIS
+738,BNP Paribas
+739,Khana Consultores
+740,GLOBAL HITSS Peru
+741,Tekton Labs
+742,MDP CONSULTING S.A.C
+743,Bertoni Solutions
+744,TIVIT LATAM
+745,NG Restaurants S.A.
+746,Favo
+747,falabella.com
+748,The Adecco Group
+749,Clínica Internacional
+750,Grupo Palmas
+751,Sodimac
+752,Kaits Consulting - Data & Analytics
+753,BBVA en Perú
+754,Grupo Efe
+755,Marsh
+756,Globokas Perú S.A.
+757,Infosys

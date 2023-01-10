@@ -1,0 +1,32 @@
+skill_id,type,skill
+14,Data Base,SQL
+9,ETL,Python
+0,Visualization,Power BI
+8,ETL,Excel
+2,Visualization,Tableau
+27,Data Warehouse,AWS
+20,Data Base,Oracle
+34,Data Warehouse,Google Cloud
+16,Data Base,PostgreSQL
+13,Data Base,MySQL
+5,Visualization,Looker
+26,Data Warehouse,Snowflake
+32,Data Warehouse,Databricks
+3,Visualization,Qlik Sense
+19,Data Base,MongoDB
+12,ETL,PySpark
+18,Data Base,Redis
+1,Visualization,Microstrategy
+28,Data Warehouse,Synapse
+10,ETL,Bash
+22,Data Base,Elasticsearch
+7,Visualization,Domo
+23,Data Base,Cassandra
+11,ETL,Perl
+25,Data Base,IBM Db2
+24,Data Base,DynamoDB
+17,Data Base,MariaDB
+21,Data Base,Firebase
+6,Visualization,Zoho
+30,Data Warehouse,IBM Netezza
+4,Visualization,Klipfolio
